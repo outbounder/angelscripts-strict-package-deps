@@ -1,0 +1,19 @@
+{
+  "name": "angelscripts-strict-package-deps",
+  "version": "0.0.0",
+  "description": "Script handler for reading package.json and replacing all `dependencies` and `devDependencies` versions of value `latest` or `*` with their actual versions locally installed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Filipov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/outbounder/angelscripts-strict-package-deps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/outbounder/angelscripts-strict-package-deps/issues"
+  },
+  "homepage": "https://github.com/outbounder/angelscripts-strict-package-deps"
+}
